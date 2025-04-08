@@ -104,6 +104,7 @@ class FaceApp(QWidget):
 
 
 if __name__ == "__main__":
+    print("欢迎使用人脸识别系统")
     app = QApplication(sys.argv)
     window = FaceApp()
     window.show()
