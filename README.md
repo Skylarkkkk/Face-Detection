@@ -3,11 +3,10 @@
 A modular face detection system implemented in Python, featuring extensible components for recognition, training, and data processing.
 
 ## Features
-- 📷 Image input/output handling
-- 🤖 Face recognition algorithms
+- 📷 Image data input handling
+- 🤖 Face recognition
 - 🛠️ Utility functions for image processing
-- 🧠 Model training pipeline
-- 🖥️ Command-line interface
+- 🖥️ GUI by PyQt5
 
 ## Installation
 ```bash
