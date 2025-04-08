@@ -37,4 +37,4 @@ python main.py
 ```
 
 ## License
-Distributed under the MIT License. See LICENSE[https://github.com/Skylarkkkk/Face-Detection/blob/main/LICENSE] for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Skylarkkkk/Face-Detection/blob/main/LICENSE) for more information.
